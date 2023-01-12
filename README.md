@@ -5,3 +5,5 @@ This a game made using python and the console window. This game is meant to recr
 
 ### How to use
 
+1. Download Game
+2. Start Game
