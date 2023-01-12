@@ -17,6 +17,12 @@ The settings file is very flimsy as mentioned in the game, if you want no issues
 > [NOL] Number of Letters      (Must be Number from 4-6) \
 > [SKI] Skip Intro             (0 = false : 1 = true) \
 > Setting > {A} \
-> New Value > {B} \
+> New Value > {B} 
 
 *What you will see in game*
+
+For the {A} slot you want to write the symbol of what you want to change, ex: *Setting > NOA* \
+You can then change the value, which the parenthises will explain what to input, ex: *New Value > 10*
+
+That is how you can change the number of attempts to 10
+When you are done put QTN into the setting option
