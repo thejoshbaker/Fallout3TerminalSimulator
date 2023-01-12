@@ -63,6 +63,7 @@ while True:
 
     if Ans == '3':
         print("This a game made using python and the console window. This game is meant to recreate Fallout3's terminal game, for more instructions view the\ngithub repository at https://github.com/thejoshbaker/Fallout3TerminalSimulator")
+        input()
 
     if Ans == '4':
         exit()
